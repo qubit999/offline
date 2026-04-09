@@ -2,6 +2,8 @@
 
 A self-contained web platform in a single Python file. File server, microblog, user management, and admin dashboard, zero dependencies beyond the Python 3.10+ standard library.
 
+<img width="2988" height="1435" alt="Screenshot 2026-04-09 at 06 31 15" src="https://github.com/user-attachments/assets/67cdfb70-22bc-4c68-b2c2-a41437cac9b7" />
+
 ## Features
 
 - **Single file** — everything lives in `server.py`
