@@ -1,0 +1,11 @@
+# Data directory (database, certs, uploads, logs)
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
